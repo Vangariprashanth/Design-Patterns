@@ -1,0 +1,2 @@
+Open for Extension but closed for modification.
+The class which is already tested and in live production, do not disturb it. 
