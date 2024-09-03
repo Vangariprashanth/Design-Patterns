@@ -1,2 +1,5 @@
 A class should have only one single responsibilty.
 A class should have only one reason to change.
+
+WithoutSingleResp file has the printInvoice() and saveToDB() in the same class. If we need to change the any functionality then it would disturb the entire class.
+WithSingleResp file has its own class for these methods.
