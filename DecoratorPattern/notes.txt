@@ -1,0 +1,33 @@
+Use case of Decorator pattern
+
+
+use Case1:
+Pizza shop:-
+    Base pizaa 
+    Toppings:
+        1. Extra Cheese
+        2. Mushroom
+        3. Jalepeno 
+        4. Extra veggies
+
+
+Use case 2:
+Coffee shop
+
+Use Case 3:
+Car
+
+Base Car
+
+Extra Features
+    Seat cover 
+    power steering
+    flood lights
+
+Why need Decorator pattern?
+To avoid Class Explosion.
+What is class explosion?
+Ans:- all permutations of the class 
+
+How to work on Decorator pattern?
+We have base class
