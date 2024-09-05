@@ -1,0 +1,5 @@
+1. Identify the objects required
+    1. Piece - X, O, $, * 
+    2. Board - m*m 
+    3. Players - 
+2. 
