@@ -1,0 +1,7 @@
+Factory pattern is used when we create a object based on a condition.
+    Lets say there are 100 classes and we need to create an object based on one condition in 100 classes, then the same below code is used in all classes. 
+    This leads to duplicacy of the code to avoid this we will create the Factory pattern.
+    The condition: 
+        if (condition is true){
+                create an object // if this condition is present in all the 100 classes then there is a duplicacy of the code.
+        }
