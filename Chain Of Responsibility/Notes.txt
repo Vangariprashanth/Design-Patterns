@@ -1,0 +1,8 @@
+Applications:
+    1. ATM/Vending Machine
+    2. Design Loggers
+
+When asked Design Loggers/ ATM/ Vending Machine then it is a Chain Of Responsibility
+
+Identification:-
+In the use case, we need to send the request and we dont care which receiver will recieve it and does the 

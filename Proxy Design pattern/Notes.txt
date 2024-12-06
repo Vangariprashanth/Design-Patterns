@@ -1,0 +1,8 @@
+1. Applications 
+	1. Internet Security:
+		1. There is a proxy server which checks first the incoming request is legit.
+	2. Cache Mechanism:
+		1. There is a cache mechanism between the server and the client which checks if the data is already present or not.
+	3. Preprocessing and Post processing:
+		1. There is a client and there is a server. 
+		2. If there needs to some work done like logging before or after sending the request then the proxy design pattern is used.
