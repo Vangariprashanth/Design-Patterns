@@ -1,5 +1,5 @@
 package BridgeDesignPattern;
 
-public interface Message {
+interface MessageSender {
     void sendMessage(String message);
 }
